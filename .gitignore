@@ -58,5 +58,5 @@ typings/
 .env
 
 # Transpiled code
-/lib/*
-/es/*
+#/lib/*
+#/es/*
