@@ -32,7 +32,8 @@ export default class Modal extends Component {
       right: 0,
       bottom: 0,
       left: 0,
-      zIndex: 9999
+      zIndex: 9999,
+      overflowY: 'auto'
     };
 
     const displayStyles = {
